@@ -1,0 +1,23 @@
+{
+  "notes": {
+    "79186865721368@lid|79186865721368@lid": [
+      {
+        "id": 1,
+        "text": "Buy a new charger",
+        "createdAt": 1791645422092
+      }
+    ]
+  },
+  "todos": {},
+  "reminders": [
+    {
+      "id": "RMW3AVUY10372",
+      "chatJid": "120363428015556421@g.us",
+      "senderJid": "134519030059095@lid",
+      "text": "Take a Break🤗",
+      "dueAt": 1793868506001,
+      "createdAt": 1793868326001,
+      "sentAt": 1793868512654
+    }
+  ]
+}

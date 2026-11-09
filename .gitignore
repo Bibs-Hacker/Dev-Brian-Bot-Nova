@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+auth_info/
+auth_info_baileys/
+session/
+bot_settings.json
+group_data.json

@@ -1,0 +1,17 @@
+{
+  "mode": "private",
+  "antiDeletePrivate": true,
+  "autoTyping": true,
+  "autoRecording": false,
+  "autoReact": false,
+  "autoViewStatus": true,
+  "autoLikeStatus": false,
+  "aiEnabled": false,
+  "additionalOwners": [
+    "254748950572",
+    "254780605232"
+  ],
+  "sessionPrefixes": {
+    "254753714625": "/"
+  }
+}
